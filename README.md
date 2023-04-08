@@ -16,4 +16,4 @@
   src="https://github.com/n0ush1n/Portrait-Illustrations/blob/main/Untitled-2%20(1).jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-height: 20px">
+  style="display: inline-block; margin: 0 auto; max-height: 100px">
