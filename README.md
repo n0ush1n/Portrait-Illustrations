@@ -8,4 +8,4 @@
   src="https://github.com/n0ush1n/Portrait-Illustrations/blob/main/176258223_1532850190253687_2342296429643613396_n.jpg"
    height="400px" >
    
-<img src="https://github.com/n0ush1n/Portrait-Illustrations/blob/main/Untitled-2%20(1).jpg" height="400px" />
+<img src="https://github.com/n0ush1n/Portrait-Illustrations/blob/main/Untitled-2%20(1).jpg" height="400px" width = "300px"/>
